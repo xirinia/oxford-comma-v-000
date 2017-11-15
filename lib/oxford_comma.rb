@@ -14,4 +14,5 @@ def oxford_comma(array)
       new_string = string.sub! ' , ', ' '
       new_string
     end
+    new_string
   end
